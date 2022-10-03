@@ -1,2 +1,2 @@
 # DLT_Website
-DLT CSIR Website
+DLT Website
